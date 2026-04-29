@@ -60,7 +60,7 @@ ELASTIC RESOURCE SCALING FOR DYNAMIC CONTAINERIZED APPLICATION WORKLOADS
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
+**LinkedIn**: www.linkedin.com/in/pattan-khan-689978177 | **Email**: pattankalesha520@gmail.com
 
 
 
