@@ -6,6 +6,7 @@
 - **Author(s):** Kalesha Khan Pattan
 - **Published In:** International Conference on Language, Literature, Cultural Heritage, and Education, ICLLCHE-2025
 - **Publication Date:** 13th-14th November, 2025
+- **ISBN:** 978-93-92104-43-5
 
 ### Abstract
 Containerized platforms rely on autoscaling to manage dynamic workloads, yet traditional threshold-based mechanisms often cause delayed reactions, inefficient resource use, and SLA violations. 
