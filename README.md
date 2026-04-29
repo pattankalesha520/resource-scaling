@@ -57,11 +57,8 @@ Eliminated delayed scaling reactions and instability by shifting from reactive t
 ELASTIC RESOURCE SCALING FOR DYNAMIC CONTAINERIZED APPLICATION WORKLOADS
 * Kalesha Khan Pattan
 * ********************************************************************** 
-* ISSN E-ISSN: ***************************************
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
-**Resources** \
-https://*****************/ \
 **Author Contact** \
 **LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
 
